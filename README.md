@@ -1,4 +1,4 @@
-# DSA-Practice 🚀
+# DSA-Practice 
 
 This repository contains my daily solutions for coding challenges as part of the **Decode With Ayush Challenge Series** aimed at preparing for real interview-level problems from companies like **TCS, Infosys, and more.**
 
