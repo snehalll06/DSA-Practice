@@ -7,20 +7,20 @@ This repository contains my daily solutions for coding challenges as part of the
 ## 🎯 Current Challenge: Decode With Ayush - Daily Technical Challenge Series
 This challenge is focused on solving company-level coding questions regularly to help students, freshers, and job seekers improve problem-solving skills and get placement-ready.
 
-👉 Challenge Organizer: [Ayush's LinkedIn](https://www.linkedin.com/in/ayush-gupta-7181b7241 )  
-👉 Community WhatsApp Group: [Join Here](https://lnkd.in/dwwFKEvx)  
-👉 Hashtag: **#DecodeWithAyush**
+- Challenge Organizer: [Ayush's LinkedIn](https://www.linkedin.com/in/ayush-gupta-7181b7241 )  
+- Community WhatsApp Group: [Join Here](https://lnkd.in/dwwFKEvx)  
+- Hashtag: **#DecodeWithAyush**
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 Each problem includes:
-- 📸 Problem Screenshot (for quick reference)
-- 💻 Solution Code
+- Problem Screenshot (for quick reference)
+- Solution Code
 
 ---
 
-## 🚀 How to Participate
+## How to Participate
 1. Check the daily problem (posted by Ayush on LinkedIn)
 2. Solve it in your preferred programming language
 3. Post your solution on your LinkedIn feed
@@ -29,7 +29,7 @@ Each problem includes:
 
 ---
 
-## 🔥 Let’s Connect
+## Let’s Connect 🔥
 I’m always happy to connect with fellow learners and coders!
 
 - Follow me on GitHub to stay updated with my coding journey.
