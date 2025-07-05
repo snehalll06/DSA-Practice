@@ -3,19 +3,17 @@ using namespace std;
 void nthlargest(int n, int arr[],int k){
     
     int max=0,i=0,count=k,index=0,result=0;
-    int r=0,s=1,countdup=0;
-    while(arr[r]>0 && r<n && s<n){
-        if(arr[s]==arr[r]){
-            arr[s]=-1;
+    int countdup=0;
+    int freq[1000]={0};
+    for(int i=0;i<n;i++){
+        freq[arr[i]]++;
+    }
+    for(int i=0;i<n;i++){
+        if((freq[arr[i]])>1){
             countdup++;
         }
-        s++;
-        if(s==n){
-            r++;
-            s=r+1;
-        }
     }
-    if(k>n-countdup){
+    if(k>n-(countdup/2)){
         cout<<"-1";
     }
     else{
