@@ -29,6 +29,14 @@ Each problem includes:
 
 ---
 
+## 📚 Problems Solved
+
+### Day 1 - TCS NQT
+- 📸 ![Problem Screenshot](./Day1_TCSNQT/Problem_Day1.png)
+- 💻 [Solution in C++](./Day1_TCSNQT/nth_largest.cpp)
+
+---
+
 ## Let’s Connect 🔥
 I’m always happy to connect with fellow learners and coders!
 
