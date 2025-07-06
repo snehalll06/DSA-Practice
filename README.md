@@ -34,6 +34,9 @@ Each problem includes:
 ### Day 1 - TCS NQT
 - 📸 ![Problem Screenshot](./Day1_TCSNQT/Problem_Day1.png)
 - 💻 [Solution in C++](./Day1_TCSNQT/nth_largest.cpp)
+### Day 2 
+- ![Problem Screenshot](./Day2/Problem_Day2.png)
+- [Solution in C++](./Day2/alice.cpp)
 
 ---
 
