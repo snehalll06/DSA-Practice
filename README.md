@@ -38,7 +38,7 @@ Each problem includes:
 - ![Problem Screenshot](./Day2/Problem_Day2.png)
 - [Solution in C++](./Day2/alice.cpp)
 ### Day 3
-- ![Problem Screenshot](./Day3/Problem_Day3.png)
+- ![Problem Screenshot](./Day3/Problem_Day3.jpeg)
 - [Solution in java](./Day3/jnjTCS.java)
 ---
 
