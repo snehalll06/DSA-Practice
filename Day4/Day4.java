@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class Main {
+class Day4{
     public static void main(String[] args) {
       
         int target=-1;
