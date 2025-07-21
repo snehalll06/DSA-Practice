@@ -55,6 +55,9 @@ Each problem includes:
 ### Day 8
 -![Problem Screenshot](./Day8/Problem_Day8.jpeg)
 -[Solution in java](./Day8/Day8.java)
+### Day 8
+-![Problem Screenshot](./Day9/Problem_Day9.jpeg)
+-[Solution in java](./Day9/Day9.java)
 ---
 
 ## Let’s Connect 🔥
