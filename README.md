@@ -71,7 +71,7 @@ Each problem includes:
 -![Problem Screenshot](./Day13/Day13.jpeg)
 -[Solution in java](./Day13/Day13.java)
 ### Day 14
--![Problem Screenshot](./Day14/Day14.jpeg)
+-![Problem Screenshot](./Day14/Problem_Day14.jpeg)
 -[Solution in java](./Day14/Day14.java)
 ---
 
