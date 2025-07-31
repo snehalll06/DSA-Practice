@@ -13,11 +13,16 @@ class Day14{
 
         int total=0;
         total+=R1*N;
-        total+=(X-(N*60))*R2/(60);
+        if((X-N*60)%60==0){
+           int N2=(X-(N*60))/60;
+           total+=N2*R2;
+        }
+        else{
+            int N2=((X-(N*60))/60 )+1;
+            total+=N2*R2;
+        }
 
         System.out.println(total);
         
-
-
     }
 }
