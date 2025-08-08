@@ -76,6 +76,9 @@ Each problem includes:
 ### Day 15
 -![Problem Screenshot](./Day15/Problem_Day15.jpeg)
 -[Solution in java](./Day15/Day15.java)
+### Day 16
+-![Problem Screenshot](./Day16/Problem_Day16.jpeg)
+-[Solution in java](./Day16/Day16.java)
 ---
 
 ## Let’s Connect 🔥
