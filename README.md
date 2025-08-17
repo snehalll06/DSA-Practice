@@ -83,9 +83,8 @@ Each problem includes:
 -![Problem Screenshot](./Day17/Problem_Day17.jpeg)
 -[Solution in java](./Day17/Day17.java)
 ### Day 18
--![Problem Screenshot](./Day17/Problem_Day18.jpeg)
--[Solution in java](./Day17/Day18.java)
-
+-![Problem Screenshot](./Day18/Problem_Day18.jpeg)
+-[Solution in java](./Day18/Day18.java)
 ---
 
 ## Let’s Connect 🔥
